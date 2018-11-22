@@ -1,4 +1,4 @@
-FROM xingjiudong/nexus:2.13.0-01
+FROM xingjiudong/adop-nexus:2.13.0-01
 
 MAINTAINER xingjiudong <xing.jiudong@trans-cosmos.com.cn>
 
